@@ -7,3 +7,4 @@ Welcome to my repository where I track my advent of code!
 ### 2023
 
 - [Advent of Typescript 2023](https://typehero.dev/aot-2023)
+- [Advent of Code 2023](https://adventofcode.com/2023/)
